@@ -1,0 +1,7 @@
+reviewers:
+  defaults:
+    - zxombie
+
+files:
+  '**':
+    - zxombie
